@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		4A472B1D1C261D8100296807 /* MyDataStructsAlgs */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MyDataStructsAlgs; sourceTree = BUILT_PRODUCTS_DIR; };
 		4A472B201C261D8100296807 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		4A472B281C26276100296807 /* chainNode.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = chainNode.h; sourceTree = "<group>"; };
+		4A472B2A1C2627E200296807 /* chain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = chain.h; path = ../chain.h; sourceTree = "<group>"; };
+		4A472B2B1C266D6D00296807 /* SHExceptions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SHExceptions.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +61,9 @@
 			isa = PBXGroup;
 			children = (
 				4A472B201C261D8100296807 /* main.cpp */,
+				4A472B281C26276100296807 /* chainNode.h */,
+				4A472B2A1C2627E200296807 /* chain.h */,
+				4A472B2B1C266D6D00296807 /* SHExceptions.h */,
 			);
 			path = MyDataStructsAlgs;
 			sourceTree = "<group>";
